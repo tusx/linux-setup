@@ -1,2 +1,2 @@
 # linux-setup
-please go to wiki
+check the issues
